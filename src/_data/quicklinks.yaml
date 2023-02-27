@@ -1,14 +1,13 @@
----
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: Digital Marketing
+    url: https://fjabadigital.hr/
+    desc: Ad and content management and creation
+  - title: Digital Design
+    url: https://fjabadigital.hr/
+    desc: Design for your business.
+  - title: Identity Creation
+    url: https://fjabadigital.hr/
+    desc: Create whole new identity for you business. We handle everything.
+  - title: Web design
+    url: https://fjabadigital.hr/
+    desc: Need ideas for web? We got it!
